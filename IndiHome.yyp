@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":4,},
+    {"id":{"name":"Sprite0","path":"sprites/Sprite0/Sprite0.yy",},"order":5,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":9,},
+    {"id":{"name":"draw_text_circle","path":"scripts/draw_text_circle/draw_text_circle.yy",},"order":2,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
+    {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},"order":3,},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":7,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+  ],
+  "isDnDProject": false,
+  "isEcma": false,
+  "tutorialPath": "",
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+  ],
+  "Folders": [],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "23.1.1.255",
+  },
+  "resourceVersion": "1.4",
+  "name": "IndiHome",
+  "tags": [],
+  "resourceType": "GMProject",
+}
